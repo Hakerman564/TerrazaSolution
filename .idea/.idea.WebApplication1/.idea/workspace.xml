@@ -4,6 +4,9 @@
     <projectFile profileName="http">WebApplication1/WebApplication1.csproj</projectFile>
     <projectFile profileName="https">WebApplication1/WebApplication1.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0f3c3128-6055-4e9f-9d54-8b5fdb44e4f4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/WebApplication1/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/Program.cs" afterDir="false" />
